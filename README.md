@@ -4,7 +4,11 @@ Splunk Technology Add-On with CIM compliant field normalization for Panda EDR lo
 
 Version 0.9
 
+## Setup
 
-To Do:
+- Place under $SPLUNK_HOME/etc/apps. Eventually restart Splunk.
+- Adjust index and sourcetype in eventtypes to your needs.
+
+##To Do
 
 - "service" event type might need refinement
